@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+pandas
+requests
+geopy
+folium
+streamlit-folium
